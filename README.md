@@ -6,7 +6,7 @@
 
 ---
 
-## 📂 실습 구조 및 경로 안내
+## 실습 구조 및 경로
 * **`/pcap_assignment`**: PCAP API를 활용한 가변 헤더 파싱 및 HTTP 페이로드 출력 과제물 소스 코드 ([myheader.h](pcap_assignment/myheader.h) / [tcp_sniffer.c](pcap_assignment/tcp_sniffer.c))
 * **`/network_security_codes`**: 기본 네트워크 보안 교육 실습용 코드 저장소 (슬라이드 예제 원본)
 
@@ -187,7 +187,7 @@ options    : TCPOptionsField                     = []              ("b''")
 
 ---
 
-## 💻 PCAP API 활용 Packet 정보 출력 프로그램 과제 (LMS 제출물)
+## PCAP API 활용 Packet 정보 출력 프로그램 과제 (LMS 제출물)
 
 ### 과제 요구사항 요약
 1. 오직 TCP 프로토콜(BPF 필터 `"tcp"`)만을 추출 대상으로 삼음.
