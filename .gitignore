@@ -12,3 +12,6 @@ pcap_assignment/__pycache__/
 
 # Compiled C binaries
 pcap_assignment/tcp_sniffer
+pcap_assignment/sniff
+pcap_assignment/sniff_improved
+pcap_assignment/udp_server
