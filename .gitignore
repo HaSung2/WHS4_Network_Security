@@ -1,0 +1,14 @@
+# macOS system files
+.DS_Store
+
+# Lecture reference materials
+네트워크 보안_이효민.pdf
+network_security_codes/
+
+# Python Virtual Environment
+pcap_assignment/venv/
+pcap_assignment/__pycache__/
+*.pyc
+
+# Compiled C binaries
+pcap_assignment/tcp_sniffer
